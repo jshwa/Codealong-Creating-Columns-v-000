@@ -111,3 +111,7 @@ figcaption {
 .first {
   margin-left: 0%;
 }
+
+footer {
+  clear: both;
+}
